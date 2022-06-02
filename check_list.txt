@@ -1,0 +1,4 @@
+1) List of checks (with required level of detail)
+2) Check status: build that was tested test environment (if applicable), tester
+3) Result of checking
+
